@@ -1,0 +1,56 @@
+[
+	{
+		"event":"Backwoods Camp 1st Anniversary",
+		"eventFor":"Backwoods Camp",
+		"type":"Flyer",
+		"dataType":"PDF",
+		"fileLocation":"data/2016/fall/bckwds-1stAniv/flyer.pdf",
+		"uploadDate":["10","04","2016"],
+		"thumbnails":"data/2016/fall/bckwds-1stAniv/thumbnails"
+	},
+	{
+		"event":"Backwoods Camp at West Harlem(Summer - 2016)",
+		"eventFor":"Backwoods Camp",
+		"type":"Flyer",
+		"dataType":"PDF",
+		"fileLocation":"data/2016/summer/bckwds-wh/flyer.pdf",
+		"uploadDate":["06","20","2016"],
+		"thumbnails":"data/2016/summer/bckwds-wh/thumbnails"
+	},
+	{
+		"event":"test",
+		"eventFor":"Backwoods Camp",
+		"type":"Flyer",
+		"dataType":"PDF",
+		"fileLocation":"data/2016/fall/bckwds-1stAniv/flyer.pdf",
+		"uploadDate":["10","04","2016"],
+		"thumbnails":"data/2016/fall/bckwds-1stAniv/thumbnails"
+	},
+	{
+		"event":"test",
+		"eventFor":"Backwoods Camp",
+		"type":"Flyer",
+		"dataType":"PDF",
+		"fileLocation":"data/2016/summer/bckwds-wh/flyer.pdf",
+		"uploadDate":["06","20","2016"],
+		"thumbnails":"data/2016/summer/bckwds-wh/thumbnails"
+	},
+	{
+		"event":"test",
+		"eventFor":"Backwoods Camp",
+		"type":"Flyer",
+		"dataType":"PDF",
+		"fileLocation":"data/2016/fall/bckwds-1stAniv/flyer.pdf",
+		"uploadDate":["10","04","2016"],
+		"thumbnails":"data/2016/fall/bckwds-1stAniv/thumbnails"
+	},
+	{
+		"event":"test",
+		"eventFor":"Backwoods Camp",
+		"type":"Flyer",
+		"dataType":"PDF",
+		"fileLocation":"data/2016/summer/bckwds-wh/flyer.pdf",
+		"uploadDate":["06","20","2016"],
+		"thumbnails":"data/2016/summer/bckwds-wh/thumbnails"
+	}
+]

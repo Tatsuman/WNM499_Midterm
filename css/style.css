@@ -1,0 +1,103 @@
+@import "https://fonts.googleapis.com/css?family=Raleway|Source+Sans+Pro";
+html,
+body {
+  position: relative;
+  width: 100%;
+  margin: 0; }
+
+#header {
+  width: 100%;
+  height: 50px;
+  position: fixed;
+  top: 0;
+  background-color: black;
+  z-index: 9999; }
+  #header h1 {
+    font-size: 22px;
+    color: white;
+    font-family: 'Raleway', sans-serif;
+    padding: 10px 0 0 20px;
+    margin: 0; }
+
+.container {
+  width: 1240px;
+  margin: 50px auto 0 auto; }
+
+.content {
+  height: 700px;
+  border-right: solid 1px #f1f1f1;
+  border-bottom: solid 1px #f1f1f1;
+  float: left; }
+  .content .info {
+    padding: 30px; }
+    .content .info table {
+      width: 100%; }
+      .content .info table th {
+        font-size: 20px;
+        font-family: 'Raleway', sans-serif;
+        font-weight: 100;
+        text-align: left; }
+      .content .info table tr {
+        color: #3e3e3e;
+        font-family: 'Source Sans Pro', sans-serif; }
+      .content .info table .dataIcon {
+        width: 20px;
+        background-repeat: no-repeat; }
+      .content .info table .gIcon {
+        width: 30px;
+        height: 30px;
+        background-repeat: no-repeat;
+        background-size: 30px 30px;
+        background-position: right top; }
+    .content .info form {
+      margin-top: 10px; }
+      .content .info form button {
+        width: 100%;
+        border: none;
+        background: #00a9ff;
+        color: white;
+        padding: 5px;
+        border-radius: 2px; }
+        .content .info form button:hover {
+          background: #006ca2; }
+  .content .image {
+    height: 500px;
+    position: relative;
+    overflow: hidden; }
+    .content .image img {
+      max-width: 300px;
+      max-height: 400px;
+      position: absolute;
+      top: 50%;
+      left: 50%;
+      transform: translate(-50%, -50%); }
+  .content:after {
+    clear: both; }
+
+@media (min-width: 0) {
+  .container {
+    width: 100%; }
+    .container .content {
+      width: calc(100% - 1px); } }
+@media (min-width: 420px) {
+  .container {
+    width: 100%; }
+    .container .content {
+      width: calc(100% - 1px); } }
+@media (min-width: 800px) {
+  .container {
+    width: 100%; }
+    .container .content {
+      width: calc(50% - 1px); } }
+@media (min-width: 1000px) {
+  .container {
+    width: 100%; }
+    .container .content {
+      width: calc(33.33% - 2px); } }
+@media (min-width: 1200px) {
+  .container {
+    width: 100%; }
+    .container .content {
+      width: calc(33.33% - 2px); } }
+
+/*# sourceMappingURL=style.css.map */

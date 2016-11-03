@@ -1,0 +1,15 @@
+
+
+$breakpoints: (
+  xs:0, //$prefix : $value
+  sm:420px,
+  md:800px,
+  lg:1000px,
+  xl:1200px
+);
+
+$content-height: 700px;
+$content-spacing: 30px;
+$header-height: 50px;
+$main-text-color: #000;
+$sub-text-color: #3e3e3e;

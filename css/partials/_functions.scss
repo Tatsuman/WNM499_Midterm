@@ -1,0 +1,31 @@
+
+@mixin clearFix(){
+	clear: both;
+}
+
+@mixin responsiveContent($prefix:''){
+	.container {
+		width: 100%;
+		// .content{
+		// 	float: left;
+		// 	height: $content-height;
+			@if($prefix == 'xs'){
+				.content{
+					width:calc(100% - 1px);
+				}
+			} @else if($prefix == 'sm'){
+				.content{
+					width:calc(100% - 1px);
+				}
+			} @else if($prefix == 'md'){
+				.content{
+					width:calc(50% - 1px);
+				}
+			} @else {
+				.content{
+					width:calc(33.33% - 2px);
+				}
+			}
+		// }
+	}
+}

@@ -1,0 +1,48 @@
+[
+	{
+		"event":"Backwoods Camp 1st Anniversary",
+		"eventFor":"bckwds",
+		"type":"Flyer",
+		"dataType":"PDF",
+		"fileLocation":"data/2016/fall/bckwds-1stAniv/flyer.pdf",
+		"uploadDate":"2016/10/04 00:00:00",
+		"thumbnails":"data/2016/fall/bckwds-1stAniv/thumbnails"
+	},
+	{
+		"event":"Backwoods Camp at West Harlem(Summer - 2016)",
+		"eventFor":"bckwds",
+		"type":"Flyer",
+		"dataType":"PDF",
+		"fileLocation":"data/2016/summer/bckwds-wh/flyer.pdf",
+		"uploadDate":"2016/06/20 00:00:00",
+		"thumbnails":"data/2016/summer/bckwds-wh/thumbnails"
+	},
+	{
+		"event":"Sativers Album Cover",
+		"eventFor":"stv",
+		"type":"Album Cover",
+		"dataType":"PDF",
+		"fileLocation":"data/2016/fall/stvs-album/albumCover/album.pdf",
+		"uploadDate":"2016/10/18 00:00:00",
+		"thumbnails":"data/2016/fall/stvs-album/albumCover/thumbnails"
+	},
+	{
+		"event":"Sativers Album Label",
+		"eventFor":"stv",
+		"type":"Album Label",
+		"dataType":"PDF",
+		"fileLocation":"data/2016/fall/stvs-album/albumLabel/label.pdf",
+		"uploadDate":"2016/10/19 00:00:00",
+		"thumbnails":"data/2016/fall/stvs-album/albumLabel/thumbnails"
+	},
+	{
+		"event":"Sativers Logo 2016",
+		"eventFor":"stv",
+		"type":"Logo Illustration",
+		"dataType":"PDF",
+		"fileLocation":"data/2016/fall/stvs-logo/logo.pdf",
+		"uploadDate":"2016/10/19 11:34:00",
+		"thumbnails":"data/2016/fall/stvs-logo/thumbnails"
+	}
+]
+
